@@ -1,2 +1,2 @@
-# libphysics
-Physics data analysis utility library with a simple zero-overhead compile-time implementation of physics units using C++14.
+# unit-library
+Toy implementation of a physics data analysis utility library with a simple zero-overhead compile-time implementation of custom units using C++14.
